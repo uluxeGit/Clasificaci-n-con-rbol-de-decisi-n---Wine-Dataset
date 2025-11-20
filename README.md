@@ -5,7 +5,9 @@
 
 Complejidad del árbol:
 Si max_depth es bajo se muestran pocas divisiones, las reglas son mas fáciles de interpretar, es más simple, si ese parámetro es mas alto, mas de 5, el árbol crece más profundo, y las reglas se vuelven más específicas.
-max_depth=None: aunque ponga None o algun otro número, se limita a 5 niveles, comienza con la misma regla pero toma caminos diferentes para llegar al mismo resultado.
+
+max_depth=None: aunque ponga None o algún otro número, se limita a 5 niveles, comienza con la misma regla pero toma caminos diferentes para llegar al mismo resultado.
+
 Mi base de conocimientos puede llegar a cumplir los requerimientos necesarios para utilizarse como modelo de árbol de desición, pero necesita estar bien estructurada, y reedefinir bien de nuevo las reglas.
 
 ## Si gustas probar el codigo:
